@@ -13,7 +13,7 @@
       <a href="https://x.com/luisherasme231" target="_blank" title="Twitter">
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40">
       <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/luis-herasme-9a60bb318/" target="_blank" title="Twitter">
+        <a href="https://www.linkedin.com/in/luis-herasme-9a60bb318/" target="_blank" title="Linkedin">
         <img src="https://skillicons.dev/icons?i=linkedin	" alt="Linkedin" width="40">
       </a>
     </p>
@@ -38,7 +38,7 @@
   <section class="skills">
     <h2>💻 Skills</h2>
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,python,java,csharp,sql" alt="Programming Skills">
+      <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,sql" alt="Programming Skills">
     </p>
   </section>
 
