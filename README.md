@@ -4,56 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #121212;
-      color: #ffffff;![overlay]()
-
-      text-align: center;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      margin: 20px 0;
-    }
-    img {
-      border-radius: 50%;
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
-    }
-    h1 {
-      margin: 10px 0;
-      font-size: 2.5rem;
-      color: #ffcc00;
-    }
-    h2 {
-      font-size: 1.5rem;
-      color: #ff8800;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      margin: 10px 0;
-    }
-    a {
-      color: #00c6ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .stats {
-      margin-top: 30px;
-    }
-    iframe {
-      margin: 10px;
-      border: none;
-    }
-  </style>
+  
 </head>
 <body>
   <header>
