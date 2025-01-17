@@ -21,10 +21,15 @@
     </ul>
   </section>
 
+  <section class="skills">
+    <h2>💻 Skills</h2>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,csharp,sql" alt="Programming Skills">
+    </p>
+  </section>
+
   <section class="stats">
     <h2>📊 GitHub Stats</h2>
-    <iframe src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400" height="200"></iframe>
-    <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="400" height="200"></iframe>
   </section>
 
   <footer>
@@ -32,4 +37,3 @@
   </footer>
 </body>
 </html>
-
