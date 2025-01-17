@@ -6,12 +6,12 @@
     <h2>📱 Social Media</h2>
     <p align="center">
       <!-- Instagram -->
-      <a href="https://instagram.com/yourusername" target="_blank" title="Instagram">
+      <a href="https://www.instagram.com/luishr.dev/" target="_blank" title="Instagram">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40">
       </a>
       <!-- Twitter -->
-      <a href="https://twitter.com/yourusername" target="_blank" title="Twitter">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40">
+      <a href="https://x.com/luisherasme231" target="_blank" title="Twitter">
+        <img src="https://skillicons.dev/icons?i=x" alt="Twitter" width="40">
       </a>
     </p>
   </section>
