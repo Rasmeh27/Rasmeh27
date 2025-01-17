@@ -1,8 +1,6 @@
 <body>
   <header>
     <img src="https://github.com/user-attachments/assets/102e774c-fbea-4b18-bbc6-1b9ef4da7832" alt="Your Profile Picture">
-    <h1>Hi, I'm [Tu Nombre] 👋</h1>
-    <h2>Software Engineer | Full Stack Developer</h2>
   </header>
 
   <section>
