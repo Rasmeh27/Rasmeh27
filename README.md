@@ -15,7 +15,7 @@
   <section>
     <h2>🌐 Connect with Me</h2>
     <ul>
-      <li><a href="https://www.linkedin.com/in/luis-herasme-9a60bb318/)https://www.linkedin.com/in/luis-herasme-9a60bb318/" target="_blank">💼 LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/in/luis-herasme-9a60bb318/" target="_blank">💼 LinkedIn</a></li>
       <li><a href="mailto:your.email@example.com">📧 Email Me</a></li>
     </ul>
   </section>
