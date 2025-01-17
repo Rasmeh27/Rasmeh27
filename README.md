@@ -14,7 +14,7 @@
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40">
       <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/luis-herasme-9a60bb318/" target="_blank" title="Twitter">
-        <img src="https://skillicons.dev/icons?i=linkedin	" alt="Twitter" width="40">
+        <img src="https://skillicons.dev/icons?i=linkedin	" alt="Linkedin" width="40">
       </a>
     </p>
   </section>
