@@ -2,7 +2,19 @@
   <header>
    <h1 align="center"><b>Hi , I'm Luis Herasme </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   </header>
-
+<section class="social-media">
+    <h2>📱 Social Media</h2>
+    <p align="center">
+      <!-- Instagram -->
+      <a href="https://instagram.com/yourusername" target="_blank" title="Instagram">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40">
+      </a>
+      <!-- Twitter -->
+      <a href="https://twitter.com/yourusername" target="_blank" title="Twitter">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40">
+      </a>
+    </p>
+  </section>
   <section>
     <h2>🚀 About Me</h2>
     <ul>
