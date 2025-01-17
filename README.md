@@ -8,7 +8,8 @@
     body {
       font-family: Arial, sans-serif;
       background-color: #121212;
-      color: #ffffff;
+      color: #ffffff;![overlay]()
+
       text-align: center;
       margin: 0;
       padding: 0;
@@ -56,7 +57,7 @@
 </head>
 <body>
   <header>
-    <img src="" alt="Your Profile Picture">
+    <img src="https://github.com/user-attachments/assets/102e774c-fbea-4b18-bbc6-1b9ef4da7832" alt="Your Profile Picture">
     <h1>Hi, I'm [Tu Nombre] 👋</h1>
     <h2>Software Engineer | Full Stack Developer</h2>
   </header>
