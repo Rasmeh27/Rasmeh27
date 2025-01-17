@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Profile</title>
-  
-</head>
 <body>
   <header>
     <img src="https://github.com/user-attachments/assets/102e774c-fbea-4b18-bbc6-1b9ef4da7832" alt="Your Profile Picture">
