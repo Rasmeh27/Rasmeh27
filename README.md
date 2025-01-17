@@ -38,7 +38,7 @@
   <section class="skills">
     <h2>💻 Skills</h2>
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,mysql,posgresql" alt="Programming Skills">
+      <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,mysql,postgres" alt="Programming Skills">
     </p>
   </section>
 
