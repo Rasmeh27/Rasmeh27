@@ -24,7 +24,7 @@
   <section class="skills">
     <h2>💻 Skills</h2>
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,csharp,sql" alt="Programming Skills">
+      <img src="https://skillicons.dev/icons?i=html,css,js,python,java,csharp,sql" alt="Programming Skills">
     </p>
   </section>
 
